@@ -3,7 +3,7 @@
 
 :revolving_hearts: **Love** coding, networks and hardware! :revolving_hearts:
 
-:seedling: Currently studying **Cyber Security**! :seedling:
+:seedling: Currently studying **Cyber Security** and **Reverse Engineering**! :seedling:
 
 :construction_worker: Working at TriaS Retail Systems as an **IT Technician**! :construction_worker:
 
