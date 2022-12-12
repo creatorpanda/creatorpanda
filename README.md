@@ -5,7 +5,7 @@
 
 :seedling: Currently studying **Cyber Security** and **Reverse Engineering**! :seedling:
 
-:construction_worker: Working at TriaS Retail Systems as an **IT Technician**! :construction_worker:
+:construction_worker: Working as an **IT Technician**! :construction_worker:
 
 :coffee: In my free time, I: :coffee:
 - study **coding**,
