@@ -3,7 +3,7 @@
 
 :revolving_hearts: **Love** coding, networks and hardware! :revolving_hearts:
 
-:seedling: Currently studying **Cyber Security** and **Reverse Engineering**! :seedling:
+:seedling: Currently studying [**Cyber Security**](https://tryhackme.com/p/creatorpanda) and **Reverse Engineering**! :seedling:
 
 :construction_worker: Working as an **IT Technician**! :construction_worker:
 
