@@ -8,9 +8,9 @@
 :construction_worker: Working as an **IT Technician**! :construction_worker:
 
 :coffee: In my free time, I: :coffee:
-- study **coding**,
-- create games **bug fixes**,
-- create **software for PC technicians** and
+- study [**coding**](https://www.codewars.com/users/creatorpanda),
+- create games [**bug fixes**](https://github.com/creatorpanda/CommandAndConquerSameKeyFix),
+- create [**software for PC technicians**](https://github.com/creatorpanda/PandaReviewer) and
 - **fix devices** people break, at home. 
 
 :love_letter: *Please reach out to me on [Twitter](https://twitter.com/creatorpanda)!* :love_letter:
