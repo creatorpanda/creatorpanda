@@ -1,11 +1,9 @@
 ### 👋 Hello there! 👋 
 ### :panda_face: I am **@creatorpanda**! :panda_face:
 
-:revolving_hearts: **Love** coding, networks and hardware! :revolving_hearts:
+:revolving_hearts: **Love** coding, networks, and hardware! :revolving_hearts:
 
 :seedling: Currently studying [**Cyber Security**](https://tryhackme.com/p/creatorpanda) and [**Reverse Engineering**](https://github.com/creatorpanda/crackme)! :seedling:
-
-:construction_worker: Working as an **IT Technician**! :construction_worker:
 
 :coffee: In my free time, I: :coffee:
 - study [**coding**](https://www.codewars.com/users/creatorpanda),
