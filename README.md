@@ -11,7 +11,7 @@
 - create [**software for PC technicians**](https://github.com/creatorpanda/PandaReviewer) and
 - **fix devices** people break, at home. 
 
-:love_letter: *Please reach out to me on [Twitter](https://twitter.com/creatorpanda)!* :love_letter:
+:love_letter: *Please reach out to me on [my personal site](https://creatorpanda.com/contact/) or [Twitter](https://twitter.com/creatorpanda)!* :love_letter:
 
 <!---
 creatorpanda/creatorpanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
