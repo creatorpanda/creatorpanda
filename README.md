@@ -3,9 +3,9 @@
 
 :revolving_hearts: I work in cybersecurity, primarily focusing on **Vulnerability Management**, while actively pursuing **Penetration Testing**. :revolving_hearts:
 
-:seedling: Currently studying for [**BSCP**](https://portswigger.net/web-security/certification/how-to-prepare)! :seedling:
+:seedling: Currently preparing for the [**Burp Suite Certified Practitioner (BSCP)**](https://portswigger.net/web-security/certification/how-to-prepare) certification! :seedling:
 
-:coffee: In my free time, I code, reverse-engineer software, build tools, mod games, experiment with Linux and networks, explore cybersecurity, and repair hardware. :coffee:
+:coffee: In my free time, I code, reverse-engineer software, build tools, mod games, experiment with Linux and networks, and repair hardware. :coffee:
 
 
 :love_letter: *Please reach out to me on [my personal website](https://creatorpanda.com/contact/) or [Twitter](https://twitter.com/creatorpanda)!* :love_letter:
