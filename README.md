@@ -1,17 +1,14 @@
 ### 👋 Hello there! 👋 
 ### :panda_face: I am **@creatorpanda**! :panda_face:
 
-:revolving_hearts: **Love** coding, networks, and hardware! :revolving_hearts:
+:revolving_hearts: I work in cybersecurity, primarily focusing on **Vulnerability Management**, while actively pursuing **Penetration Testing**. :revolving_hearts:
 
-:seedling: Currently studying [**Cyber Security**](https://tryhackme.com/p/creatorpanda) and [**Reverse Engineering**](https://github.com/creatorpanda/crackme)! :seedling:
+:seedling: Currently studying for [**BSCP**](https://portswigger.net/web-security/certification/how-to-prepare)! :seedling:
 
-:coffee: In my free time, I: :coffee:
-- study [**coding**](https://www.codewars.com/users/creatorpanda),
-- create games [**bug fixes**](https://github.com/creatorpanda/CommandAndConquerSameKeyFix),
-- create [**software for PC technicians**](https://github.com/creatorpanda/PandaReviewer) and
-- **fix devices** people break, at home. 
+:coffee: In my free time, I code, reverse-engineer software, build tools, mod games, experiment with Linux and networks, explore cybersecurity, and repair hardware. :coffee:
 
-:love_letter: *Please reach out to me on [my personal site](https://creatorpanda.com/contact/) or [Twitter](https://twitter.com/creatorpanda)!* :love_letter:
+
+:love_letter: *Please reach out to me on [my personal website](https://creatorpanda.com/contact/) or [Twitter](https://twitter.com/creatorpanda)!* :love_letter:
 
 <!---
 creatorpanda/creatorpanda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
